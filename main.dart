@@ -2,7 +2,11 @@
 
 // Question no1
 
-  //abhi ni kiya
+// operators in dart
+// 1) +,-,*,/,%
+// 2) <,> ==, <=,=>
+
+
 
 
 //Question 2
@@ -124,7 +128,7 @@
 //-----------------------------------------------------
 
 //question 10
-/
+
 // void main() {
 //   var arr = ["Hyderabad"];
 //   var paste = "islam";
@@ -133,9 +137,114 @@
 //   print(arr);
 // }
 
+//question 11
+
+import 'dart:io';
+
+import 'dart:math';
+
+// void main() {
+//   print("Enter your name");
+//   var customerNmae = stdin.readLineSync();
+//   print("Month Augest");
+//   var units = 653;
+//   print("total unites ${units}");
+//   var chargesUnit = 21;
+//   print("chargers per unit ${chargesUnit}");
+//   var netAmount = units * chargesUnit;
+//   print("Net Amount Payable (within Due Date) ${netAmount}");
+//   var latePayment = 155;
+//   print("Gross Amount Payable (after Due Date) ${latePayment + netAmount} ");
+
+// }
+
+//Question 12
+
+// void main() {
+//   var fMonth = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
+//   var lMonth = [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30];
+//   print("enter the date between 1-30")
+//   var pickDate = stdin.readLineSync();
+//   if(pickDate >=1 || pickDate < 16){
+//      print("“First fifteen days of the month");
+//   }
+//   else if(pickDate >=16 || pickDate <=30 ){
+//     print("Last days of the month");
+//   }
+//   else{
+//     print("wrond date selected");
+//   }
+// }
+
+//Question no 13
+
+// methods of list
+
+// void main() {
+//   var arr = [12, 34, 223, 1212, 343, 32];
+//   print(arr.length);
+// }
 
 
-//question 10
+// void main() {
+//   var arr = [12, 34, 223, 1212, 343, 32];
+//   print(arr.first);
+// }
+
+// void main() {
+//   var arr = [12, 34, 223, 1212, 343, 32];
+//   print(arr.last);
+}
+
+// void main() {
+//   var arr = [12, 34, 223, 1212, 343, 32];
+//   print(arr.isEmpty);
+// }
+
+
+// void main() {
+//   var arr = [12, 34, 223, 1212, 343, 32];
+//   print(arr.add(33333333333));
+// }
+
+
+
+//methods of string
+
+
+// void main (){
+
+//   String name = "code";
+//   print(name.length);
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
